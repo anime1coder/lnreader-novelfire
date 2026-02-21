@@ -1,0 +1,12 @@
+[
+  {
+    "id": "novelfire",
+    "name": "Novel Fire",
+    "version": "1.1.0",
+    "icon": "https://novelfire.net/favicon.ico",
+    "lang": "en",
+    "baseUrl": "https://novelfire.net",
+    "script": "https://raw.githubusercontent.com/anime1coder/lnreader-novelfire/main/novelfire.js",
+    "type": "source"
+  }
+]
